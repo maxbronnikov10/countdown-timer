@@ -1,2 +1,2 @@
 # countdown-timer
-Countdown timer for all purposes/
+Countdown timer for all purposesю
